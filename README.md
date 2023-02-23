@@ -1,0 +1,2 @@
+# MarijanaGitRepo
+first git repo
